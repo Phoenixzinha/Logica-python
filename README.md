@@ -8,6 +8,7 @@ Os códigos estão organizados por tema, para facilitar a navegação.
 Estrutura
 
 01 — Entrada de Dados
+
 Programas que pedem informações para o usuário e exibem mensagens personalizadas.
 
 - `saudacao_com_altura.py`
@@ -15,6 +16,7 @@ Programas que pedem informações para o usuário e exibem mensagens personaliza
 ---
 
 02 — Calculadora Básica
+
 Operações matemáticas em Python, com diferentes níveis de complexidade.
 
 - `soma_dois_valores.py`
@@ -25,6 +27,7 @@ Operações matemáticas em Python, com diferentes níveis de complexidade.
 ---
 
 03 — Strings e Textos
+
 Manipulação e formatação de textos.
 
 - `frase_maiusculas.py`
@@ -34,6 +37,7 @@ Manipulação e formatação de textos.
 ---
 
 04 — Estruturas Condicionais
+
 Códigos que utilizam `if`, `elif` e `else` para tomar decisões baseadas em condições.
 
 - `numero_maior.py`
@@ -47,8 +51,10 @@ Códigos que utilizam `if`, `elif` e `else` para tomar decisões baseadas em con
 ---
 
 05 — Estruturas de Repetição
+
 Exercício com `for` e `while`, exemplo de loops.
 
 - `intervalo_numeros.py`
 
 ---
+
